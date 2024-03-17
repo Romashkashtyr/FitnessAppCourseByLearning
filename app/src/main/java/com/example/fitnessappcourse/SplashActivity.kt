@@ -30,4 +30,8 @@ class SplashActivity : AppCompatActivity() {
         super.onDestroy()
         timer.cancel()
     }
+
+    fun init(){
+
+    }
 }
