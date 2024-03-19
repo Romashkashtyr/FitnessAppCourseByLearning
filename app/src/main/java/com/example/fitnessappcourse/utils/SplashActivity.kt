@@ -1,10 +1,11 @@
-package com.example.fitnessappcourse
+package com.example.fitnessappcourse.utils
 
 import android.annotation.SuppressLint
 import android.content.Intent
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
 import android.os.CountDownTimer
+import com.example.fitnessappcourse.R
 
 @SuppressLint("CustomSplashScreen")
 class SplashActivity : AppCompatActivity() {
